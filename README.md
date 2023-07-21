@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/SinBin10/Results_Summary_Project_new
+- Live Site URL: https://sinbin10.github.io/Results_Summary_Project_new/
 
 ## My process
 
